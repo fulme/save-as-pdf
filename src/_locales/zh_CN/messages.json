@@ -1,0 +1,11 @@
+{
+   "default_title": {
+      "message": "一键将网页保存为PDF"
+   },
+   "description": {
+      "message": "一键将网页保存为PDF"
+   },
+   "name": {
+      "message": "保存为PDF"
+   }
+}

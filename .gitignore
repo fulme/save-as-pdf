@@ -1,0 +1,5 @@
+.gitignire
+node_modules
+build
+*.crx
+*.pem
